@@ -19,7 +19,7 @@ During the analysis, the following key questions were addressed using SQL querie
 analysis techniques:
 1. Find out the top 5 customers who made the highest profits.
 
-    ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/image(18).png)
+    ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/Question1%20(project%201).png)
 
 2. Find out the average quantity ordered per category.
 3. Identify the top 5 products that have generated the highest revenue.
@@ -32,7 +32,7 @@ analysis techniques:
 10. Identify the top 2 categories that have received maximum returns and their return
 percentage.
 ## Entity-Relationship Diagram (ERD)
-![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/image(16).png)
+![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/ERD%20for%20amazon%20project.png)
 
 An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between
 the tables in the dataset. This diagram provides a clear understanding of the data structure and
