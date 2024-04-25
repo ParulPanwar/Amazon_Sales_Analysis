@@ -18,6 +18,9 @@ missing values and ensure data quality.
 During the analysis, the following key questions were addressed using SQL queries and data
 analysis techniques:
 1. Find out the top 5 customers who made the highest profits.
+
+    ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/image(18).png)
+
 2. Find out the average quantity ordered per category.
 3. Identify the top 5 products that have generated the highest revenue.
 4. Determine the top 5 products whose revenue has decreased compared to the previous year.
