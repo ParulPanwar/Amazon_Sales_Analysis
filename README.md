@@ -23,15 +23,34 @@ analysis techniques:
     ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/Question1%20(project%201).png)
 
 2. Find out the average quantity ordered per category.
+
+    ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/Question%202%20(Project%201).png)
 3. Identify the top 5 products that have generated the highest revenue.
+
+    ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/Question%203%20(Project%201).png)
 4. Determine the top 5 products whose revenue has decreased compared to the previous year.
+
+    ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/Question%204%20(Project%201).png)
 5. Identify the highest profitable sub-category.
+
+    ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/Question%205%20(Project%201).png)
 6. Find out the states with the highest total orders.
+
+    ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/Question%206%20(Project%201).png)
 7. Determine the month with the highest number of orders.
+
+   ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/Question%207%20(Project%201).png)
 8. Calculate the profit margin percentage for each sale (Profit divided by Sales).
+
+   ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/Question%208%20(Project%201).png)
 9. Calculate the percentage contribution of each sub-category.
+
+   ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/Question%209%20(Project%201).png)
 10. Identify the top 2 categories that have received maximum returns and their return
 percentage.
+
+    ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/Question%2010%20(Project%201).png)
+   
 ## Entity-Relationship Diagram (ERD)
 ![](https://github.com/ParulPanwar/Amazon_Sales_Analysis/blob/main/ERD%20for%20amazon%20project.png)
 
